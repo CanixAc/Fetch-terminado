@@ -17,7 +17,7 @@ body{
 
 h1{
     font-size: 1.5rem;
-    color: #333;
+    color: #;
     margin-bottom: 20px;
     text-align: center;
 }
@@ -51,7 +51,7 @@ textarea{
 button{
     width: 100%;
     padding: 12px;
-    background-color: #28a745;
+    background-color: #711bb8;
     color: white;
     border: none;
     border-radius: 6px;
@@ -61,8 +61,8 @@ button{
 }
 
 
-button:hiver {
-    background-color: #218838;
+button:hover {
+    background-color: #2a0635;
 }
 
 #mensajeEstado {
